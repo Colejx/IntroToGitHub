@@ -1,5 +1,5 @@
  HEAD
 # IntroToGitHub
 
-# My First Repository(test)
+# My First Repository
  8c881bc (Testing SSH connection)
